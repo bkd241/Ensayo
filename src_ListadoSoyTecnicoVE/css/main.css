@@ -1,0 +1,20 @@
+body {
+    padding: 0px;
+    margin: 0%;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(../img/banner1.jpg);
+    background-position: 0% 35%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 35rem;
+}
+
+.jumbotron .row .col-xl-8 .card {
+    margin-top: 10%;
+    margin-left: 55%;
+    background: whitesmoke;
+    color: #000;
+}
